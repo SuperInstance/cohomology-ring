@@ -1,0 +1,9 @@
+[package]
+name = "cohomology-ring"
+version = "0.1.0"
+edition = "2021"
+description = "Cup product, cohomology groups, Bockstein homomorphism, and Steenrod squares in algebraic topology"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cohomology-ring"
+
+[dependencies]
